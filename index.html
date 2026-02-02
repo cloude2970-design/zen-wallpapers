@@ -283,15 +283,17 @@
                 
                 grid.innerHTML = '';
                 data.results.forEach(img => {
+                    // Use 'full' quality with specific width for high-res long-press saving
+                    const highResUrl = `${img.urls.raw}&w=2160&q=90&fm=jpg`;
                     const card = document.createElement('div');
                     card.className = 'card';
                     card.onclick = () => toggleSelect(card, img.links.download + '&force=true', img.id);
                     card.innerHTML = `
                         <div class="select-badge">✓</div>
-                        <img src="${img.urls.regular}" alt="${img.alt_description}">
+                        <img src="${highResUrl}" alt="${img.alt_description}" loading="lazy">
                         <div class="card-overlay">
                             <div style="color:white; margin-bottom:10px; font-size:14px;">By ${img.user.name}</div>
-                            <a href="${img.links.download}&force=true" target="_blank" class="download-btn" onclick="event.stopPropagation()">HD PREVIEW</a>
+                            <a href="${img.links.download}&force=true" target="_blank" class="download-btn" onclick="event.stopPropagation()">RAW DOWNLOAD</a>
                         </div>
                     `;
                     grid.appendChild(card);

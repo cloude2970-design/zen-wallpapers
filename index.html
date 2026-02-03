@@ -175,7 +175,8 @@
         <div style="margin-bottom: 20px; font-size: 10px;">
             <input type="text" id="keyInput" class="key-input" placeholder="PASTE ACCESS KEY HERE" onchange="saveKey(this.value)">
             <span style="margin-left:10px">← Get free key at unsplash.com/developers</span>
-            <button onclick="loadSGrade()" style="margin-left:20px; background:var(--accent); color:white; border:none; padding:5px 10px; border-radius:4px; cursor:pointer;">VIEW S-CLASS CURATED</button>
+            <button onclick="loadSGrade()" style="margin-left:20px; background:var(--accent); color:white; border:none; padding:5px 10px; border-radius:4px; cursor:pointer;">S-CLASS CURATED</button>
+            <button onclick="refreshSGrade()" id="refreshBtn" style="margin-left:10px; background:#1c1917; color:var(--accent); border:1px solid var(--accent); padding:5px 10px; border-radius:4px; cursor:pointer; display:none;">REFRESH (GET 10)</button>
         </div>
         <div class="search-container">
             <input type="text" id="searchInput" placeholder="Search S-Class Wallpapers (e.g. Cyberpunk, Nature)..." onkeypress="handleSearch(event)">
@@ -317,14 +318,24 @@
         }
 
         async function loadSGrade() {
+            document.getElementById('refreshBtn').style.display = 'inline-block';
+            await refreshSGrade();
+        }
+
+        async function refreshSGrade() {
             const grid = document.getElementById('imageGrid');
             const loading = document.getElementById('loading');
             loading.style.display = 'block';
             try {
                 const response = await fetch('s-grade-curated.json');
-                const data = await response.json();
+                let data = await response.json();
+                
+                // Shuffle and pick 10
+                const shuffled = data.sort(() => 0.5 - Math.random());
+                const selected = shuffled.slice(0, 10);
+
                 grid.innerHTML = '';
-                data.forEach(img => {
+                selected.forEach(img => {
                     const card = document.createElement('div');
                     card.className = 'card';
                     card.onclick = () => toggleSelect(card, img.url, img.id);

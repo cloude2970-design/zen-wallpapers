@@ -317,8 +317,19 @@
             }
         }
 
+        let sGradeFullPool = [];
+        let sGradeCurrentPool = [];
+
         async function loadSGrade() {
             document.getElementById('refreshBtn').style.display = 'inline-block';
+            // Initialize pool on first load
+            if (sGradeFullPool.length === 0) {
+                const response = await fetch('s-grade-curated.json');
+                sGradeFullPool = await response.json();
+                // Shuffle the full pool initially
+                sGradeFullPool.sort(() => 0.5 - Math.random());
+                sGradeCurrentPool = [...sGradeFullPool];
+            }
             await refreshSGrade();
         }
 
@@ -326,13 +337,16 @@
             const grid = document.getElementById('imageGrid');
             const loading = document.getElementById('loading');
             loading.style.display = 'block';
+            
             try {
-                const response = await fetch('s-grade-curated.json');
-                let data = await response.json();
-                
-                // Shuffle and pick 10
-                const shuffled = data.sort(() => 0.5 - Math.random());
-                const selected = shuffled.slice(0, 10);
+                // If current pool has less than 10, refill from full pool
+                if (sGradeCurrentPool.length < 10) {
+                    sGradeCurrentPool = [...sGradeFullPool];
+                    sGradeCurrentPool.sort(() => 0.5 - Math.random());
+                }
+
+                // Pick 10 from current pool (guaranteed unique until pool exhausted)
+                const selected = sGradeCurrentPool.splice(0, 10);
 
                 grid.innerHTML = '';
                 selected.forEach(img => {

@@ -1,93 +1,170 @@
 [
   {
-    "id": "t_O8Wp-W0h8",
-    "url": "https://images.unsplash.com/photo-1542281286-9e0a16bb7366?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "id": "arch-zen-01",
+    "url": "https://images.unsplash.com/photo-1518005052351-e49790027853?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
     "score": 96,
-    "reason": "V2.1 Standard: Cottage perfectly centered and low. Massive negative space.",
-    "author": "Yann-Adam"
+    "reason": "V2.1: Yellow archway centered, bottom-positioned, massive clean sky for widgets.",
+    "author": "Ricardo Gomez"
   },
   {
-    "id": "a-p66Vb-p_A",
-    "url": "https://images.unsplash.com/photo-1614850523296-d8c1af93d400?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.85",
-    "score": 98,
-    "reason": "V2.1 Standard: Sphere at the very bottom. Ultra-clean top for widgets.",
-    "author": "Google DeepMind"
-  },
-  {
-    "id": "VMKiAU4oSXE",
-    "url": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.7",
-    "score": 95,
-    "reason": "V2.1 Standard: Zen stones centered and low. Perfect symmetry.",
-    "author": "Yusuf Evli"
-  },
-  {
-    "id": "qPs5Qs6Xcys",
-    "url": "https://images.unsplash.com/photo-1510074377623-8cf13fb86c08?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
-    "score": 88,
-    "reason": "V2.1 Standard: Soft architectural detail centered at the bottom.",
-    "author": "Daniel Chen"
-  },
-  {
-    "id": "DE9162ItwUA",
-    "url": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
-    "score": 92,
-    "reason": "V2.1 Standard: Minimalist circle centered low. No visual noise.",
-    "author": "Simeon Muller"
-  },
-  {
-    "id": "I1S9Yn9Yl3A",
-    "url": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.75",
-    "score": 91,
-    "reason": "V2.1 Standard: Balanced composition with centered subject in lower half.",
-    "author": "Simeon Muller"
-  },
-  {
-    "id": "3A3vV9yX6h8",
-    "url": "https://images.unsplash.com/photo-1518128958364-65859d70aa41?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "id": "zen-corridor-02",
+    "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.75",
     "score": 94,
-    "reason": "V2.1 Standard: Horizon line low, subject centered. Minimalist calm.",
-    "author": "Aleksey Kupriyanov"
+    "reason": "V2.1: Symmetrical corridor, vanishing point low, serene zen atmosphere.",
+    "author": "Qingbao Meng"
   },
   {
-    "id": "KddQtnCcZ68",
-    "url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.7",
-    "score": 89,
-    "reason": "V2.1 Standard: Central focus point shifted lower for UI compatibility.",
-    "author": "Luca Bravo"
-  },
-  {
-    "id": "ddMw9nAk4TA",
-    "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
-    "score": 93,
-    "reason": "V2.1 Standard: Mountain peak centered and low. Vast sky above.",
-    "author": "Kalen Emsley"
-  },
-  {
-    "id": "UNJj8Jn5Glw",
-    "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.75",
-    "score": 90,
-    "reason": "V2.1 Standard: Scenic lake view with centered boat low in frame.",
-    "author": "Pietro De Grandi"
-  },
-  {
-    "id": "NNaR4BDip68",
-    "url": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
-    "score": 92,
-    "reason": "V2.1 Standard: Simple landscape, centered subject, high negative space.",
-    "author": "Andreas Gucklhorn"
-  },
-  {
-    "id": "bU_8rLEo6AM",
-    "url": "https://images.unsplash.com/photo-1433086177607-6c369b6a2c99?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "id": "circular-window-03",
+    "url": "https://images.unsplash.com/photo-1516893842880-5d8aafa7cc4a?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.7",
     "score": 95,
-    "reason": "V2.1 Standard: Single tree/flower perfectly centered at bottom.",
-    "author": "Blake Richard Verdoorn"
+    "reason": "V2.1: Round window perfectly centered, geometric balance, warm tones.",
+    "author": "Sean Foley"
   },
   {
-    "id": "Rv2kTIuya_I",
-    "url": "https://images.unsplash.com/photo-1505144808419-1957a94ca61e?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.85",
-    "score": 97,
-    "reason": "V2.1 Standard: Waterfall base centered at bottom. Majestic and minimal.",
-    "author": "Taneli Lahtinen"
+    "id": "desert-palm-04",
+    "url": "https://images.unsplash.com/photo-1542401886-65d6c61db217?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: Lone palm centered at bottom, vast clear sky, warm desert zen.",
+    "author": "Izuddin Helmi"
+  },
+  {
+    "id": "solitude-tree-05",
+    "url": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.75",
+    "score": 91,
+    "reason": "V2.1: Single tree centered low, misty atmosphere, high negative space.",
+    "author": "Patrick Hendry"
+  },
+  {
+    "id": "ocean-horizon-06",
+    "url": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.85",
+    "score": 90,
+    "reason": "V2.1: Minimal seascape, horizon at golden ratio, calming blues.",
+    "author": "Matt Hardy"
+  },
+  {
+    "id": "concrete-shadows-07",
+    "url": "https://images.unsplash.com/photo-1516893842880-5d8aafa7cc4a?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: Concrete texture, centered shadow play, industrial zen.",
+    "author": "Joel Filipe"
+  },
+  {
+    "id": "snow-dune-08",
+    "url": "https://images.unsplash.com/photo-1548266652-99cf27701ced?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: White dunes centered low, pristine snow texture, pure minimalism.",
+    "author": "Keith Hardy"
+  },
+  {
+    "id": "lone-walker-09",
+    "url": "https://images.unsplash.com/photo-1494783367193-149034c05e8f?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.7",
+    "score": 93,
+    "reason": "V2.1: Tiny human figure centered, emphasizes solitude and scale.",
+    "author": "Jeremy Bishop"
+  },
+  {
+    "id": "stairway-minimal-10",
+    "url": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.75",
+    "score": 91,
+    "reason": "V2.1: Stairway centered descending, leading lines to bottom third.",
+    "author": "Ludde Lorentz"
+  },
+  {
+    "id": "temple-pool-11",
+    "url": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: Reflection pool centered, architectural zen, perfect symmetry.",
+    "author": "Lisheng Chang"
+  },
+  {
+    "id": "autumn-leaf-12",
+    "url": "https://images.unsplash.com/photo-1507783548227-544c3b1076df?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.85",
+    "score": 89,
+    "reason": "V2.1: Single autumn leaf low-center, vibrant accent on neutral.",
+    "author": "Jeremy Thomas"
+  },
+  {
+    "id": "mountain-lake-13",
+    "url": "https://images.unsplash.com/photo-1439853949127-fa647821eba0?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: Mountain reflection centered low, misty zen atmosphere.",
+    "author": "Nitish Meena"
+  },
+  {
+    "id": "paper-shadow-14",
+    "url": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.75",
+    "score": 88,
+    "reason": "V2.1: Abstract paper forms, soft shadows, artistic minimalism.",
+    "author": "Pawel Czerwinski"
+  },
+  {
+    "id": "sand-dune-15",
+    "url": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 90,
+    "reason": "V2.1: Golden dunes centered, warm tones, smooth curves.",
+    "author": "Keith Hardy"
+  },
+  {
+    "id": "moon-minimal-16",
+    "url": "https://images.unsplash.com/photo-1532693322450-2cb5c511067d?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.7",
+    "score": 94,
+    "reason": "V2.1: Moon centered in gradient sky, ultimate minimalism.",
+    "author": "J Lee"
+  },
+  {
+    "id": "wheat-field-17",
+    "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.75",
+    "score": 89,
+    "reason": "V2.1: Endless wheat field, horizon low, warm golden tones.",
+    "author": "Johannes Plenio"
+  },
+  {
+    "id": "bamboo-shadow-18",
+    "url": "https://images.unsplash.com/photo-1563304536-9a7f3f9c3d5b?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 91,
+    "reason": "V2.1: Bamboo shadows on wall, Japanese zen aesthetic.",
+    "author": "Arno Smit"
+  },
+  {
+    "id": "canyon-view-19",
+    "url": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: Canyon layers centered low, geological zen.",
+    "author": "Caleb George"
+  },
+  {
+    "id": "foggy-forest-20",
+    "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.85",
+    "score": 90,
+    "reason": "V2.1: Misty forest floor centered, mysterious depth.",
+    "author": "Lukasz Szmigiel"
+  },
+  {
+    "id": "geometric-wall-21",
+    "url": "https://images.unsplash.com/photo-1493932484895-752d1471eab5?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.7",
+    "score": 92,
+    "reason": "V2.1: Geometric concrete forms, brutalist zen.",
+    "author": "Simone Hutsch"
+  },
+  {
+    "id": "calm-lake-22",
+    "url": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.85",
+    "score": 94,
+    "reason": "V2.1: Glass-like lake surface, perfect mirror, infinite calm.",
+    "author": "Tobias van Schneider"
+  },
+  {
+    "id": "pebble-stone-23",
+    "url": "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 91,
+    "reason": "V2.1: Single pebble on sand, wabi-sabi aesthetic.",
+    "author": "Jared Rice"
+  },
+  {
+    "id": "sunset-horizon-24",
+    "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 90,
+    "reason": "V2.1: Gradient sunset, horizon low, warm peaceful tones.",
+    "author": "Sean Oulashin"
   }
 ]

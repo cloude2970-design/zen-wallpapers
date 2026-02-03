@@ -1,23 +1,23 @@
 [
   {
+    "id": "a-p66Vb-p_A",
+    "url": "https://images.unsplash.com/photo-1614850523296-d8c1af93d400?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-y=0.8",
+    "score": 98,
+    "reason": "S-Class v2.0 Winner: Small sphere perfectly centered horizontally, positioned in the lower third. Top area is completely clean for the OS clock. Extreme minimalism.",
+    "author": "Google DeepMind"
+  },
+  {
     "id": "VMKiAU4oSXE",
-    "url": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?q=80&w=1320&h=2868&auto=format&fit=crop",
+    "url": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-y=0.7",
     "score": 95,
-    "reason": "Perfect zen composition: a single rock balanced on others, high negative space, neutral earth tones.",
+    "reason": "Subject balanced and centered. Adjusted focal point to ensure stones are below the golden ratio line.",
     "author": "Yusuf Evli"
   },
   {
-    "id": "DE9162ItwUA",
-    "url": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=1320&h=2868&auto=format&fit=crop",
-    "score": 92,
-    "reason": "Ultra-minimalist architecture: a white circle on a white wall, subtle shadows, clean geometric lines.",
+    "id": "m9PthHlhI9Y",
+    "url": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-y=0.8",
+    "score": 90,
+    "reason": "Minimalist lamp on a table. Subject centered and low, providing massive negative space for widgets.",
     "author": "Simeon Muller"
-  },
-  {
-    "id": "qPs5Qs6Xcys",
-    "url": "https://images.unsplash.com/photo-1510074377623-8cf13fb86c08?q=80&w=1320&h=2868&auto=format&fit=crop",
-    "score": 88,
-    "reason": "Soft lighting, minimal structure, peaceful atmosphere.",
-    "author": "Daniel Chen"
   }
 ]

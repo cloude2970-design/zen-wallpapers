@@ -1,0 +1,23 @@
+[
+  {
+    "id": "VMKiAU4oSXE",
+    "url": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?q=80&w=1320&h=2868&auto=format&fit=crop",
+    "score": 95,
+    "reason": "Perfect zen composition: a single rock balanced on others, high negative space, neutral earth tones.",
+    "author": "Yusuf Evli"
+  },
+  {
+    "id": "DE9162ItwUA",
+    "url": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=1320&h=2868&auto=format&fit=crop",
+    "score": 92,
+    "reason": "Ultra-minimalist architecture: a white circle on a white wall, subtle shadows, clean geometric lines.",
+    "author": "Simeon Muller"
+  },
+  {
+    "id": "qPs5Qs6Xcys",
+    "url": "https://images.unsplash.com/photo-1510074377623-8cf13fb86c08?q=80&w=1320&h=2868&auto=format&fit=crop",
+    "score": 88,
+    "reason": "Soft lighting, minimal structure, peaceful atmosphere.",
+    "author": "Daniel Chen"
+  }
+]

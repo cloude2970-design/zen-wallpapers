@@ -175,6 +175,7 @@
         <div style="margin-bottom: 20px; font-size: 10px;">
             <input type="text" id="keyInput" class="key-input" placeholder="PASTE ACCESS KEY HERE" onchange="saveKey(this.value)">
             <span style="margin-left:10px">← Get free key at unsplash.com/developers</span>
+            <button onclick="loadSGrade()" style="margin-left:20px; background:var(--accent); color:white; border:none; padding:5px 10px; border-radius:4px; cursor:pointer;">VIEW S-CLASS CURATED</button>
         </div>
         <div class="search-container">
             <input type="text" id="searchInput" placeholder="Search S-Class Wallpapers (e.g. Cyberpunk, Nature)..." onkeypress="handleSearch(event)">
@@ -312,6 +313,36 @@
         function handleSearch(e) {
             if (e.key === 'Enter') {
                 searchImages(e.target.value);
+            }
+        }
+
+        async function loadSGrade() {
+            const grid = document.getElementById('imageGrid');
+            const loading = document.getElementById('loading');
+            loading.style.display = 'block';
+            try {
+                const response = await fetch('s-grade-curated.json');
+                const data = await response.json();
+                grid.innerHTML = '';
+                data.forEach(img => {
+                    const card = document.createElement('div');
+                    card.className = 'card';
+                    card.onclick = () => toggleSelect(card, img.url, img.id);
+                    card.innerHTML = `
+                        <div class="select-badge">✓</div>
+                        <img src="${img.url}" alt="S-Grade" loading="lazy">
+                        <div class="card-overlay">
+                            <div style="color:var(--accent); font-weight:bold;">S-CLASS SCORE: ${img.score}</div>
+                            <div style="color:white; margin-bottom:10px; font-size:12px;">${img.reason}</div>
+                            <a href="${img.url}" download="s-grade-${img.id}.jpg" target="_blank" class="download-btn" onclick="event.stopPropagation()">DOWNLOAD RAW</a>
+                        </div>
+                    `;
+                    grid.appendChild(card);
+                });
+            } catch (err) {
+                alert('S-Grade data not ready yet. Please wait for AI scoring.');
+            } finally {
+                loading.style.display = 'none';
             }
         }
 

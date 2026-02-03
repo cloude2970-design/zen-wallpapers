@@ -1,23 +1,23 @@
 [
   {
-    "id": "a-p66Vb-p_A",
-    "url": "https://images.unsplash.com/photo-1614850523296-d8c1af93d400?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-y=0.8",
-    "score": 98,
-    "reason": "S-Class v2.0 Winner: Small sphere perfectly centered horizontally, positioned in the lower third. Top area is completely clean for the OS clock. Extreme minimalism.",
-    "author": "Google DeepMind"
+    "id": "t_O8Wp-W0h8",
+    "url": "https://images.unsplash.com/photo-1542281286-9e0a16bb7366?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "Scored on Cropped View: The small cottage is perfectly centered and rests exactly in the lower third. The vast sky provides 70% clean space for widgets. Colors are muted and zen.",
+    "author": "Yann-Adam"
   },
   {
     "id": "VMKiAU4oSXE",
-    "url": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-y=0.7",
+    "url": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.7",
     "score": 95,
-    "reason": "Subject balanced and centered. Adjusted focal point to ensure stones are below the golden ratio line.",
+    "reason": "Scored on Cropped View: Zen stones are now framed lower to clear the clock. Perfect horizontal symmetry.",
     "author": "Yusuf Evli"
   },
   {
-    "id": "m9PthHlhI9Y",
-    "url": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-y=0.8",
-    "score": 90,
-    "reason": "Minimalist lamp on a table. Subject centered and low, providing massive negative space for widgets.",
-    "author": "Simeon Muller"
+    "id": "a-p66Vb-p_A",
+    "url": "https://images.unsplash.com/photo-1614850523296-d8c1af93d400?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.85",
+    "score": 98,
+    "reason": "Scored on Cropped View: The sphere is positioned near the bottom edge, creating a massive zen void above. Minimalist peak.",
+    "author": "Google DeepMind"
   }
 ]

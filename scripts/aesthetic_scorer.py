@@ -10,12 +10,16 @@ import time
 #    - 黄金分割: 主体必须处于画面纵向 61.8% 以下区域（为上方时钟留出干净空间）。
 # 3. 手机适配 (20%): 适合 1320x2868 裁切，无视觉干扰。
 
+def get_cropped_url(raw_url, fp_y=0.8):
+    # 生成裁切后的 1320x2868 预览图 URL
+    return f"{raw_url}&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y={fp_y}&q=80"
+
 def score_image(img_metadata):
-    # 模拟视觉分析逻辑
-    print(f"Analyzing composition for: {img_metadata['id']}")
-    # 逻辑：检查主体坐标 (x, y)
-    # IF x is near 0.5 AND y > 0.618 THEN score += 40
-    return 90 # 示例评分
+    # 核心：必须基于裁切后的预览图进行评分
+    cropped_url = get_cropped_url(img_metadata['urls']['raw'])
+    print(f"Scoring cropped version: {cropped_url}")
+    # 逻辑：将此 cropped_url 发送给视觉模型，评估最终在手机屏幕上的构图效果
+    return 95 # 模拟评分结果
 
 def main():
     results = fetch_candidates(SEARCH_QUERY)

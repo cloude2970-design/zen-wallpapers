@@ -306,5 +306,19 @@
     "score": 90,
     "reason": "V2.1: Autumn forest, soft colors, seasonal change.",
     "author": "Lum3n"
+  },
+  {
+    "id": "unsplash-zen-extra-01",
+    "url": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1 Standard: Geometric stairs leading to a void. Extreme horizontal symmetry and low focal point.",
+    "author": "Efe Kurnaz"
+  },
+  {
+    "id": "unsplash-zen-extra-02",
+    "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.85",
+    "score": 95,
+    "reason": "V2.1 Standard: Solitary boat on a glass-like lake. Subject perfectly centered and resting on the bottom edge.",
+    "author": "Pietro De Grandi"
   }
 ]

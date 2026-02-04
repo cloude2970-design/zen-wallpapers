@@ -176,7 +176,7 @@
             <input type="text" id="keyInput" class="key-input" placeholder="PASTE ACCESS KEY HERE" onchange="saveKey(this.value)">
             <span style="margin-left:10px">← Get free key at unsplash.com/developers</span>
             <button onclick="loadSGrade()" style="margin-left:20px; background:var(--accent); color:white; border:none; padding:5px 10px; border-radius:4px; cursor:pointer;">S-CLASS CURATED</button>
-            <button onclick="refreshSGrade()" id="refreshBtn" style="margin-left:10px; background:#1c1917; color:var(--accent); border:1px solid var(--accent); padding:5px 10px; border-radius:4px; cursor:pointer; display:none;">REFRESH (GET 10)</button>
+            <button onclick="refreshSGrade()" id="refreshBtn" style="margin-left:10px; background:#1c1917; color:var(--accent); border:1px solid var(--accent); padding:5px 10px; border-radius:4px; cursor:pointer; display:none;">REFRESH</button>
         </div>
         <div class="search-container">
             <input type="text" id="searchInput" placeholder="Search S-Class Wallpapers (e.g. Cyberpunk, Nature)..." onkeypress="handleSearch(event)">
@@ -350,8 +350,14 @@
         let currentSearchPage = 1;
 
         async function loadSGrade() {
-            document.getElementById('refreshBtn').style.display = 'inline-block';
-            document.getElementById('loadMoreBtn').style.display = 'none';
+            const refreshBtn = document.getElementById('refreshBtn');
+            const loadMoreBtn = document.getElementById('loadMoreBtn');
+            
+            refreshBtn.style.display = 'none'; // Hide refresh button for S-Class
+            loadMoreBtn.style.display = 'inline-block';
+            loadMoreBtn.textContent = 'LOAD MORE (+10)';
+            loadMoreBtn.onclick = loadMoreSGrade;
+            
             // Initialize pool on first load
             if (sGradeFullPool.length === 0) {
                 const response = await fetch('s-grade-curated.json');
@@ -360,12 +366,13 @@
                 sGradeFullPool.sort(() => 0.5 - Math.random());
                 sGradeCurrentPool = [...sGradeFullPool];
             }
-            await refreshSGrade();
+            await refreshSGrade(false);
         }
 
-        async function refreshSGrade() {
+        async function refreshSGrade(append = false) {
             const grid = document.getElementById('imageGrid');
             const loading = document.getElementById('loading');
+            const loadMoreBtn = document.getElementById('loadMoreBtn');
             loading.style.display = 'block';
             
             try {
@@ -378,7 +385,10 @@
                 // Pick 10 from current pool (guaranteed unique until pool exhausted)
                 const selected = sGradeCurrentPool.splice(0, 10);
 
-                grid.innerHTML = '';
+                if (!append) {
+                    grid.innerHTML = '';
+                }
+                
                 selected.forEach(img => {
                     const card = document.createElement('div');
                     card.className = 'card';
@@ -394,11 +404,21 @@
                     `;
                     grid.appendChild(card);
                 });
+                
+                // Show load more button for S-Class mode
+                if (selected.length > 0) {
+                    loadMoreBtn.style.display = 'inline-block';
+                    loadMoreBtn.onclick = loadMoreSGrade;
+                }
             } catch (err) {
                 alert('S-Grade data not ready yet. Please wait for AI scoring.');
             } finally {
                 loading.style.display = 'none';
             }
+        }
+        
+        async function loadMoreSGrade() {
+            await refreshSGrade(true);
         }
 
         // Initial Load

@@ -176,6 +176,7 @@
             <input type="text" id="keyInput" class="key-input" placeholder="PASTE ACCESS KEY HERE" onchange="saveKey(this.value)">
             <span style="margin-left:10px">← Get free key at unsplash.com/developers</span>
             <button onclick="loadSGrade()" style="margin-left:20px; background:var(--accent); color:white; border:none; padding:5px 10px; border-radius:4px; cursor:pointer;">S-CLASS CURATED</button>
+            <button onclick="toggleSort()" id="sortBtn" style="margin-left:10px; background:#1c1917; color:#78716c; border:1px solid #444; padding:5px 10px; border-radius:4px; cursor:pointer; display:none;">SORT: RANDOM</button>
             <button onclick="refreshSGrade()" id="refreshBtn" style="margin-left:10px; background:#1c1917; color:var(--accent); border:1px solid var(--accent); padding:5px 10px; border-radius:4px; cursor:pointer; display:none;">REFRESH</button>
         </div>
         <div class="search-container">
@@ -344,16 +345,50 @@
 
         let sGradeFullPool = [];
         let sGradeCurrentPool = [];
+        let sGradeSortMode = 'random'; // 'random', 'high', 'low'
 
         // Search pagination state
         let currentSearchQuery = '';
         let currentSearchPage = 1;
 
+        function toggleSort() {
+            const btn = document.getElementById('sortBtn');
+            if (sGradeSortMode === 'random') {
+                sGradeSortMode = 'high';
+                btn.textContent = 'SORT: HIGH → LOW';
+                btn.style.color = 'var(--gold)';
+            } else if (sGradeSortMode === 'high') {
+                sGradeSortMode = 'low';
+                btn.textContent = 'SORT: LOW → HIGH';
+                btn.style.color = 'var(--gold)';
+            } else {
+                sGradeSortMode = 'random';
+                btn.textContent = 'SORT: RANDOM';
+                btn.style.color = '#78716c';
+            }
+            // Re-sort and refresh
+            sortSGradePool();
+            refreshSGrade(false);
+        }
+
+        function sortSGradePool() {
+            if (sGradeSortMode === 'high') {
+                sGradeCurrentPool.sort((a, b) => b.score - a.score);
+            } else if (sGradeSortMode === 'low') {
+                sGradeCurrentPool.sort((a, b) => a.score - b.score);
+            } else {
+                // Random shuffle
+                sGradeCurrentPool.sort(() => 0.5 - Math.random());
+            }
+        }
+
         async function loadSGrade() {
             const refreshBtn = document.getElementById('refreshBtn');
             const loadMoreBtn = document.getElementById('loadMoreBtn');
+            const sortBtn = document.getElementById('sortBtn');
             
             refreshBtn.style.display = 'none'; // Hide refresh button for S-Class
+            sortBtn.style.display = 'inline-block'; // Show sort button
             loadMoreBtn.style.display = 'inline-block';
             loadMoreBtn.textContent = 'LOAD MORE (+10)';
             loadMoreBtn.onclick = loadMoreSGrade;
@@ -362,9 +397,9 @@
             if (sGradeFullPool.length === 0) {
                 const response = await fetch('s-grade-curated.json');
                 sGradeFullPool = await response.json();
-                // Shuffle the full pool initially
-                sGradeFullPool.sort(() => 0.5 - Math.random());
                 sGradeCurrentPool = [...sGradeFullPool];
+                // Apply current sort mode
+                sortSGradePool();
             }
             await refreshSGrade(false);
         }
@@ -377,10 +412,11 @@
             
             try {
                 // Only refill when pool is completely empty (not when low)
-                // This ensures all 24 images are shown before any repeat
+                // This ensures all 44 images are shown before any repeat
                 if (sGradeCurrentPool.length === 0) {
                     sGradeCurrentPool = [...sGradeFullPool];
-                    sGradeCurrentPool.sort(() => 0.5 - Math.random());
+                    // Apply current sort mode when refilling
+                    sortSGradePool();
                 }
 
                 // Pick up to 10 from current pool

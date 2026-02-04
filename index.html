@@ -376,14 +376,17 @@
             loading.style.display = 'block';
             
             try {
-                // If current pool has less than 10, refill from full pool
-                if (sGradeCurrentPool.length < 10) {
+                // Only refill when pool is completely empty (not when low)
+                // This ensures all 24 images are shown before any repeat
+                if (sGradeCurrentPool.length === 0) {
                     sGradeCurrentPool = [...sGradeFullPool];
                     sGradeCurrentPool.sort(() => 0.5 - Math.random());
                 }
 
-                // Pick 10 from current pool (guaranteed unique until pool exhausted)
-                const selected = sGradeCurrentPool.splice(0, 10);
+                // Pick up to 10 from current pool
+                // If less than 10 remain, we show what's left (then refill next time)
+                const count = Math.min(10, sGradeCurrentPool.length);
+                const selected = sGradeCurrentPool.splice(0, count);
 
                 if (!append) {
                     grid.innerHTML = '';
@@ -406,9 +409,19 @@
                 });
                 
                 // Show load more button for S-Class mode
-                if (selected.length > 0) {
+                if (sGradeCurrentPool.length > 0) {
                     loadMoreBtn.style.display = 'inline-block';
+                    loadMoreBtn.textContent = `LOAD MORE (+${Math.min(10, sGradeCurrentPool.length)})`;
                     loadMoreBtn.onclick = loadMoreSGrade;
+                } else {
+                    // Pool empty, next click will show all 24 reshuffled
+                    loadMoreBtn.style.display = 'inline-block';
+                    loadMoreBtn.textContent = 'REFRESH ALL (24)';
+                    loadMoreBtn.onclick = () => {
+                        sGradeCurrentPool = [...sGradeFullPool];
+                        sGradeCurrentPool.sort(() => 0.5 - Math.random());
+                        refreshSGrade(false);
+                    };
                 }
             } catch (err) {
                 alert('S-Grade data not ready yet. Please wait for AI scoring.');

@@ -284,7 +284,7 @@
     "url": "https://images.pexels.com/photos/675243/pexels-photo-675243.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.85",
     "score": 93,
     "reason": "V2.1: White clouds, blue sky, cloud watching.",
-    "author": "Máté Batha"
+    "author": "M\u00e1t\u00e9 Batha"
   },
   {
     "id": "pexels-zen-18",
@@ -320,5 +320,425 @@
     "score": 95,
     "reason": "V2.1 Standard: Solitary boat on a glass-like lake. Subject perfectly centered and resting on the bottom edge.",
     "author": "Pietro De Grandi"
+  },
+  {
+    "id": "zen-ext-047",
+    "url": "https://images.unsplash.com/photo-1714164854001-1e2b94df0730?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: A very tall building with a sky background. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-048",
+    "url": "https://images.unsplash.com/photo-1625054790108-6a5fb0c174af?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: Green trees on brown soil. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-049",
+    "url": "https://images.unsplash.com/photo-1616706713139-7d2787ab821e?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: Brown concrete building during daytime. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-050",
+    "url": "https://images.unsplash.com/photo-1617111490936-07b47eafdcd4?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: Red tulips in white ceramic vase. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-051",
+    "url": "https://images.unsplash.com/photo-1766925038110-a78acbf05fac?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 91,
+    "reason": "V2.1: Corrugated concrete wall with horizontal lines. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-052",
+    "url": "https://images.unsplash.com/photo-1575463987336-c8d9bc83f156?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: Body of water photograph. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-053",
+    "url": "https://images.unsplash.com/photo-1694614513690-25cfb8e764f7?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: A bird house in the middle of a forest. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-054",
+    "url": "https://images.unsplash.com/photo-1697787985078-aeb249daad62?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 91,
+    "reason": "V2.1: A frozen lake surrounded by trees and snow. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-055",
+    "url": "https://images.unsplash.com/photo-1608036635876-17ae999f1a89?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: Snow covered field and trees during daytime. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-056",
+    "url": "https://images.unsplash.com/photo-1748896739415-5e05a040b898?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: A half moon shines in a dark sky.. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-057",
+    "url": "https://images.unsplash.com/photo-1763356844642-002d1d0194f5?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: A single bamboo stalk against a textured background.. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-058",
+    "url": "https://images.unsplash.com/photo-1769898509003-42e84dc5fc7c?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: A small bird perched on a bare tree branch.. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-059",
+    "url": "https://images.unsplash.com/photo-1759818523047-872fac29f4fa?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: Abstract vertical gray lines with subtle texture. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-060",
+    "url": "https://images.unsplash.com/photo-1760200759571-3095df0b80ae?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: Tall evergreen tree against a clear blue sky. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-061",
+    "url": "https://images.unsplash.com/photo-1766579911749-654e350b4445?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: A purple stripe on a textured gray wall.. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-062",
+    "url": "https://images.unsplash.com/photo-1552720306-f9690151be8d?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: Ovate leafed plant. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-063",
+    "url": "https://images.unsplash.com/photo-1581481927644-b8baf72a8236?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: Green pine trees covered with snow. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-064",
+    "url": "https://images.unsplash.com/photo-1730237418437-67c075e68f97?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: A mountain covered in clouds and trees. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-065",
+    "url": "https://images.unsplash.com/photo-1567699631772-21be4f5ef2ce?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: Forest covered in fog. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-066",
+    "url": "https://images.unsplash.com/photo-1663918589504-41e9430b899a?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 91,
+    "reason": "V2.1: A body of water with a blue sky above. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-067",
+    "url": "https://images.unsplash.com/photo-1769362348906-24710f55a0a5?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: Abstract green grass blades with motion blur effect. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-068",
+    "url": "https://images.unsplash.com/photo-1769925487842-ef8f2b79607f?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: Tall bamboo stalks with delicate leaves against a wall.. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-069",
+    "url": "https://images.unsplash.com/photo-1677227812623-32b603cf4868?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: A large body of water sitting under a blue sky. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-070",
+    "url": "https://images.unsplash.com/photo-1567010375323-647e954af519?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: A black and white photo of a white wall. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-071",
+    "url": "https://images.unsplash.com/photo-1644065172790-1dd8212bd47f?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: A black and white photo of a metal wall. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-072",
+    "url": "https://images.unsplash.com/photo-1708375727153-49bf9f2d6d4d?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: A foggy road surrounded by tall trees. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-073",
+    "url": "https://images.unsplash.com/photo-1714164849602-124b8467a57b?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: A tall building with a clock on the side of it. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-074",
+    "url": "https://images.unsplash.com/photo-1533423016682-ce75c2d80a0c?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 90,
+    "reason": "V2.1: Brown driftwood on seashore near beach. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-075",
+    "url": "https://images.unsplash.com/photo-1613724753284-342a4a35b135?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 91,
+    "reason": "V2.1: Green trees on mountain beside sea during daytime. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-076",
+    "url": "https://images.unsplash.com/photo-1626532986989-04761d7ec35e?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: Man in yellow jacket standing on seashore near rock formation during daytime. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-077",
+    "url": "https://images.unsplash.com/photo-1697295127683-1f4c60a8aca8?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: A black bird flying through a foggy sky. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-078",
+    "url": "https://images.unsplash.com/photo-1665202732341-0a0021b75550?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: A bench sits by the water. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-079",
+    "url": "https://images.unsplash.com/photo-1769919296021-b5c371d423da?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: Tall bamboo stalks with dappled sunlight and shadows.. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-080",
+    "url": "https://images.unsplash.com/photo-1534177807969-3ad5d0536de1?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 91,
+    "reason": "V2.1: Three brown bamboo poles. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-081",
+    "url": "https://images.unsplash.com/photo-1743964548569-4cebda7e33a6?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: A small boat sails under a cloudy sky.. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-082",
+    "url": "https://images.unsplash.com/photo-1635280794649-46fc6e7969c2?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: A lone boat floating in the middle of the ocean. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-083",
+    "url": "https://images.unsplash.com/photo-1736269147674-3977abaf5298?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: An empty road in the middle of a forest. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-084",
+    "url": "https://images.unsplash.com/photo-1761807941793-68ac63344a67?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 90,
+    "reason": "V2.1: Lush green canyon with a small pavilion nestled within.. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-085",
+    "url": "https://images.unsplash.com/photo-1679001436380-90e2a57cb259?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: A large hill with some clouds in the sky. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-086",
+    "url": "https://images.unsplash.com/photo-1769020913570-979ecbc81f85?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: A single stalk of grass in a field at sunset.. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-087",
+    "url": "https://images.unsplash.com/photo-1753998218460-4bbac7c9fc5e?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: A tree grows on a log in the water.. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-088",
+    "url": "https://images.unsplash.com/photo-1633356654999-3007d66bfdb7?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: A dirt road in the middle of a field. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-089",
+    "url": "https://images.unsplash.com/photo-1752860709278-b310c4dd1462?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 91,
+    "reason": "V2.1: Fog shrouds trees on a misty mountain slope.. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-090",
+    "url": "https://images.unsplash.com/photo-1672767126157-0424dcfd2869?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: A forest filled with lots of tall trees. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-091",
+    "url": "https://images.unsplash.com/photo-1581342028699-30d895aad5c8?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 90,
+    "reason": "V2.1: White textile on brown textile. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-092",
+    "url": "https://images.unsplash.com/photo-1620812943336-7d6d2a7c6afd?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: Green trees on green grass field under white clouds during daytime. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-093",
+    "url": "https://images.unsplash.com/photo-1597046050703-a841a6eb2a64?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: Person in red shirt surfing on sea during daytime. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-094",
+    "url": "https://images.unsplash.com/photo-1667580715861-6ce8d21e9fcb?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 91,
+    "reason": "V2.1: A path through a forest. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-095",
+    "url": "https://images.unsplash.com/photo-1768967550282-1219315d67ac?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: Wooden walkway leading to a lush green forest. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-096",
+    "url": "https://images.unsplash.com/photo-1512061203001-0c4d837c6882?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: Red and green boat docking on dock. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-097",
+    "url": "https://images.unsplash.com/photo-1643400812459-a5950aedb352?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: A large body of water with a sky background. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-098",
+    "url": "https://images.unsplash.com/photo-1751675790034-ed544b5bb401?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: Sailboat on vast, calm turquoise ocean under clear sky. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-099",
+    "url": "https://images.unsplash.com/photo-1624709911259-b71beebe72ae?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: Blue sea under blue sky during daytime. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-100",
+    "url": "https://images.unsplash.com/photo-1617074147572-f42343619526?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: Yellow and black cable cars. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-101",
+    "url": "https://images.unsplash.com/photo-1573037513620-ba1e41482997?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: Low-angle photography of trees. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-102",
+    "url": "https://images.unsplash.com/photo-1725201238751-4178964a76d9?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: A forest filled with lots of trees covered in fog. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-103",
+    "url": "https://images.unsplash.com/photo-1597800390826-0acdf52b2ee1?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: Green tree beside white and blue wall. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-104",
+    "url": "https://images.unsplash.com/photo-1759043164279-b97749b60ae6?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: People walking through a tall bamboo forest path.. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-105",
+    "url": "https://images.unsplash.com/photo-1766807009901-a663b3b346ee?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 90,
+    "reason": "V2.1: Vertical white corrugated metal panels create a pattern. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-106",
+    "url": "https://images.unsplash.com/photo-1756621608834-e6ce164623c5?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: Stone pagoda surrounded by lush green trees. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
+    "author": "Unsplash Contributor"
   }
 ]

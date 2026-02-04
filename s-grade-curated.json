@@ -740,5 +740,775 @@
     "score": 94,
     "reason": "V2.1: Stone pagoda surrounded by lush green trees. Subject centered low (fp-y=0.8), clean upper third for UI elements.",
     "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-107",
+    "url": "https://plus.unsplash.com/premium_photo-1745177058579-d16b6dff2c7f?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: Blurred green leaves create an abstract, artistic effect.. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-108",
+    "url": "https://plus.unsplash.com/premium_photo-1680784320956-e2c11bdd51bb?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: an empty room with a stool and a window. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-109",
+    "url": "https://images.unsplash.com/photo-1707376064461-48d17c70e0b0?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: a very tall building with a sky in the background. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-110",
+    "url": "https://plus.unsplash.com/premium_photo-1706139517445-143c7625e425?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: a room with a bench and a large window. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-111",
+    "url": "https://images.unsplash.com/photo-1657920758613-33c0f804f9a3?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: a white wall with a black railing. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-112",
+    "url": "https://images.unsplash.com/photo-1763694856423-477e1dc26229?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: A blue chair next to a vase with bamboo.. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-113",
+    "url": "https://images.unsplash.com/photo-1655012325190-89c9153a563c?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: a white bed with a white wall. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-114",
+    "url": "https://images.unsplash.com/photo-1761366166631-bd6a72fcc555?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: Modern building with reflective water feature. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-115",
+    "url": "https://images.unsplash.com/photo-1760623146151-2656defca5c4?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: Modern architectural walkway with textured walls.. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-116",
+    "url": "https://images.unsplash.com/photo-1668958930278-99a0d36d9684?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: a potted plant on a table. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-117",
+    "url": "https://images.unsplash.com/photo-1676256632648-422a85b88b4c?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: a concrete block with a green plant on top of it. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-118",
+    "url": "https://images.unsplash.com/photo-1668867159932-fb04d3c955d3?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: a white door with a window. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-119",
+    "url": "https://plus.unsplash.com/premium_photo-1673735078587-4cfbb759fd3f?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: an empty room with a plant in the corner. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-120",
+    "url": "https://images.unsplash.com/photo-1658107165735-d029ba581bca?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: a white rectangular object. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-121",
+    "url": "https://images.unsplash.com/photo-1586440038776-0ce67a1f8334?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: white window blinds on window. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-122",
+    "url": "https://images.unsplash.com/photo-1609342066876-dce9c0782fb7?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: white wooden door on white painted wall. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-123",
+    "url": "https://images.unsplash.com/photo-1667396123200-76fd0f7cb75a?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: a room with a large window. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-124",
+    "url": "https://plus.unsplash.com/premium_photo-1683134274095-22a2d27c6d58?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: Empty poster in the living room with comfortable furniture a. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-125",
+    "url": "https://images.unsplash.com/photo-1707920439664-406c5f9498ff?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: a shelf with two vases and a lamp on it. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-126",
+    "url": "https://images.unsplash.com/photo-1681034795674-3e6dad14cae1?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: a room with a wooden floor and a shelf on the wall. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-127",
+    "url": "https://plus.unsplash.com/premium_photo-1664302637525-e2a97fc65d33?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: Hayama, Japan. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-128",
+    "url": "https://plus.unsplash.com/premium_photo-1661963974426-987b8328aa1a?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: Young man using cell phone and laptop in room overlooking ga. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-129",
+    "url": "https://images.unsplash.com/photo-1643671632163-2ae04119ac07?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: a bonsai tree in a planter in front of a building. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-130",
+    "url": "https://images.unsplash.com/photo-1676182123614-3e1f67fd38f5?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: a bonsai tree sitting on top of a wooden table. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-131",
+    "url": "https://plus.unsplash.com/premium_photo-1751484751575-8c28c7b7e9bd?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: A chair and grass grow in an empty room.. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-132",
+    "url": "https://images.unsplash.com/photo-1648365672222-3365047df2fd?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: a view out of a window into a garden. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-133",
+    "url": "https://images.unsplash.com/photo-1721943351593-02d9826e0952?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: A bonsai tree on a table in front of a fence. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-134",
+    "url": "https://images.unsplash.com/photo-1715388693816-443d278beffb?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: a view out a window of a lush green forest. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-135",
+    "url": "https://images.unsplash.com/photo-1753035090755-099d4f264d61?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: Bonsai arrangement featuring rocks and greenery.. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-136",
+    "url": "https://plus.unsplash.com/premium_photo-1664302454100-aa1f07d499d1?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: Young man using cell phone and laptop in room overlooking ga. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-137",
+    "url": "https://plus.unsplash.com/premium_photo-1665657351340-f5088ce0e062?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: a fake tree in the middle of a room. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-138",
+    "url": "https://images.unsplash.com/photo-1648729100886-3a1898354017?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: a planter box outside a building. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-139",
+    "url": "https://images.unsplash.com/photo-1757227579586-00dc29a82879?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: Green payphone in a glass booth in the woods. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-140",
+    "url": "https://images.unsplash.com/photo-1701604479186-e3f678b427fa?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: two large planters sitting next to a white wall. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-141",
+    "url": "https://images.unsplash.com/photo-1622451475035-21d2302c0a98?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: white and black wall decor. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-142",
+    "url": "https://images.unsplash.com/photo-1761990924854-22c836e269fa?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: A small tree grows in a dilapidated sunroom.. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-143",
+    "url": "https://images.unsplash.com/photo-1723031186467-37f8ef1d4b35?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: A couple of white chairs sitting on top of a lush green park. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-144",
+    "url": "https://images.unsplash.com/photo-1722773188434-4b61745be61b?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: A view of a park from under a bridge. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-145",
+    "url": "https://images.unsplash.com/photo-1723443790274-c3352e6f2e5d?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: A stone lantern sitting on top of a lush green field. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-146",
+    "url": "https://images.unsplash.com/photo-1684674452842-5f5bb4004bd8?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: a white air conditioner sitting next to a building. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-147",
+    "url": "https://plus.unsplash.com/premium_photo-1723568460657-2113d189c4a6?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: A foggy field with tall brown grass in the foreground. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-148",
+    "url": "https://images.unsplash.com/photo-1643006597506-e0ad618f3d52?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: a long row of lights hanging from the ceiling of a building. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-149",
+    "url": "https://images.unsplash.com/photo-1602819604554-4eeace2aacda?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: brown concrete building under blue sky during daytime. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-150",
+    "url": "https://images.unsplash.com/photo-1564443422617-5cfde5e3e2a9?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: low angle photo of blue and white ferries wheel. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-151",
+    "url": "https://images.unsplash.com/flagged/photo-1585578966751-18811c9599a8?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: black and white bird flying under blue sky during daytime. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-152",
+    "url": "https://images.unsplash.com/photo-1766157669220-17f3e0259405?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: A metal ladder runs up a tiled wall.. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-153",
+    "url": "https://images.unsplash.com/photo-1735290673864-d98c15010995?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: A tall building with a clock on the side of it. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-154",
+    "url": "https://images.unsplash.com/photo-1609668456586-aac8b6c2d2f7?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: bare trees on snow covered ground. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-155",
+    "url": "https://images.unsplash.com/photo-1608568871648-24113b23c21a?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: black high rise building under blue sky. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-156",
+    "url": "https://plus.unsplash.com/premium_photo-1744464992767-cf482fa5535f?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: Shadows of leaves on a textured wall.. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-157",
+    "url": "https://plus.unsplash.com/premium_photo-1740413437712-23078e7048bb?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: A bathroom with a blue wall and a white toilet. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-158",
+    "url": "https://plus.unsplash.com/premium_photo-1749723953603-bbd68be36c84?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: Green trees blurred together, forming an abstract nature sce. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-159",
+    "url": "https://images.unsplash.com/photo-1581098618283-ee6d1edb7029?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: blue and white sky over the sea. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-160",
+    "url": "https://plus.unsplash.com/premium_photo-1739176234160-a740c8b391b5?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: A large body of water sitting under a blue sky. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-161",
+    "url": "https://images.unsplash.com/photo-1747414396301-76d631cbd2eb?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: Modern white building with a balcony and glass windows.. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-162",
+    "url": "https://images.unsplash.com/photo-1615029282165-222db3c32b51?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: blue and white concrete building. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-163",
+    "url": "https://images.unsplash.com/photo-1620588231479-7c12fbdf32c7?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: white textile on brown wooden surface. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-164",
+    "url": "https://plus.unsplash.com/premium_photo-1666874443883-d6e984d8eb3d?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: a bridge with birds flying in the sky. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-165",
+    "url": "https://images.unsplash.com/photo-1602765835989-b021fe3ed4f8?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: person in red shirt walking on brown field under gray sky du. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-166",
+    "url": "https://images.unsplash.com/photo-1597661906069-f8591fc784d6?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: black and white bird on green grass during daytime. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-167",
+    "url": "https://plus.unsplash.com/premium_photo-1674572257964-3bbf2d330a93?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: a white bowl filled with pills on top of a blue surface. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-168",
+    "url": "https://images.unsplash.com/photo-1612344801387-1219e4677f21?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: white textile on green textile. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-169",
+    "url": "https://plus.unsplash.com/premium_photo-1671762515907-560a84e4c411?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: two lemons sitting on a white cloth. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-170",
+    "url": "https://plus.unsplash.com/premium_photo-1673716788622-d281cc7f1f50?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: a red rose with the word love painted on it. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-171",
+    "url": "https://images.unsplash.com/photo-1641799151041-db65cad96f53?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: a pair of ski lifts against a blue sky. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-172",
+    "url": "https://images.unsplash.com/photo-1536215212148-0e146e4c4402?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: grayscale photography of tower above calm body of water. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-173",
+    "url": "https://images.unsplash.com/photo-1493606278519-11aa9f86e40a?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: top view photography of mug with black liquid. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-174",
+    "url": "https://plus.unsplash.com/premium_photo-1673716788461-0aa43e5d2015?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: two red roses sitting on top of a white table. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-175",
+    "url": "https://images.unsplash.com/photo-1476036604315-fed0874dfd55?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: black ferris wheel under clear skies. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-176",
+    "url": "https://images.unsplash.com/photo-1527556362-f0f27c186c82?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: half filled black coffee. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-177",
+    "url": "https://images.unsplash.com/photo-1518809958428-5a8adcf17498?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: three palm trees under stratus clouds. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-178",
+    "url": "https://images.unsplash.com/photo-1521046732450-c3259a378455?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: man standing on cliff under white sky. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-179",
+    "url": "https://images.unsplash.com/photo-1569841912204-04f6630d04ee?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: a plane flying over a forest of trees. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-180",
+    "url": "https://images.unsplash.com/photo-1521208916306-71fce562015a?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: orange flowers. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-181",
+    "url": "https://images.unsplash.com/photo-1618616459770-88892842b6a1?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: bird flying over the sea during daytime. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-182",
+    "url": "https://images.unsplash.com/photo-1495299458363-c7d39bb37892?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: pineapple fruit. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-183",
+    "url": "https://images.unsplash.com/photo-1617076678363-99dd6eb5150b?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: white ceramic mug on white textile. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-184",
+    "url": "https://images.pexels.com/photos/9046768/pexels-photo-9046768.png?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: A serene zen garden with a Buddha statue, sand rake, an. Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-185",
+    "url": "https://images.pexels.com/photos/5706262/pexels-photo-5706262.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: Minimalist Buddha head sculpture with incense offering . Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-186",
+    "url": "https://images.pexels.com/photos/7845492/pexels-photo-7845492.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 91,
+    "reason": "V2.1: Serene close-up of miniature Zen garden with stones and. Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-187",
+    "url": "https://images.pexels.com/photos/7407305/pexels-photo-7407305.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: Warm candlelight on a marble tray set against a dark ba. Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-188",
+    "url": "https://images.pexels.com/photos/4207786/pexels-photo-4207786.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: Set of various books composed with white Buddha head st. Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-189",
+    "url": "https://images.pexels.com/photos/6645624/pexels-photo-6645624.png?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: Black and white image of a stack of smooth stones evoki. Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-190",
+    "url": "https://images.pexels.com/photos/6957169/pexels-photo-6957169.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: Calming scene with Palo Santo wood on wicker basket in . Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-191",
+    "url": "https://images.pexels.com/photos/5990737/pexels-photo-5990737.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: Black and white image of a solitary person on a rock in. Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-192",
+    "url": "https://images.pexels.com/photos/7845065/pexels-photo-7845065.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 91,
+    "reason": "V2.1: A woman in a black suit rakes a mini Zen garden on a re. Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-193",
+    "url": "https://images.pexels.com/photos/305821/pexels-photo-305821.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: Close-up of a green succulent plant in a pot against a . Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-194",
+    "url": "https://images.pexels.com/photos/17158016/pexels-photo-17158016/free-photo-of-japanese-zen-garden-at-the-gardens-of-the-world-marzahn-berlin-germany.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: Tranquil Japanese Zen garden with rocks and lush greene. Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-195",
+    "url": "https://images.pexels.com/photos/13796727/pexels-photo-13796727.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: A serene Buddha statue made of gray stone on a marble s. Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-196",
+    "url": "https://images.pexels.com/photos/8266184/pexels-photo-8266184.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: A peaceful zen garden with sand, stones, rake, and natu. Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-197",
+    "url": "https://images.pexels.com/photos/9420595/pexels-photo-9420595.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: Tranquil water splash in a misty lake setting, perfect . Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-198",
+    "url": "https://images.pexels.com/photos/8528368/pexels-photo-8528368.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 91,
+    "reason": "V2.1: A zen garden with rocks, sand, and wooden elements, pro. Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-199",
+    "url": "https://images.pexels.com/photos/13974641/pexels-photo-13974641.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: A peaceful arrangement of stacked stones in a quiet, sh. Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-200",
+    "url": "https://images.pexels.com/photos/4812307/pexels-photo-4812307.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: Vertical stack of balanced stones on a rocky terrain, s. Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-201",
+    "url": "https://images.pexels.com/photos/4641459/pexels-photo-4641459.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: A minimalistic image of a green plant against a white b. Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-202",
+    "url": "https://images.pexels.com/photos/6766712/pexels-photo-6766712.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: Minimalist interior with mortar, incense, and crystals . Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-203",
+    "url": "https://images.pexels.com/photos/8266187/pexels-photo-8266187.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: Tranquil miniature Zen garden with a sand rake, rocks, . Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-204",
+    "url": "https://images.pexels.com/photos/2027697/pexels-photo-2027697.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: A striking minimalist silhouette of a plant against a b. Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-205",
+    "url": "https://images.pexels.com/photos/5706261/pexels-photo-5706261.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: A white Buddha sculpture with incense smoke against a s. Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-206",
+    "url": "https://images.pexels.com/photos/8250990/pexels-photo-8250990.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 91,
+    "reason": "V2.1: Wooden pebbles stacked on notebooks in a minimalist set. Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-207",
+    "url": "https://images.pexels.com/photos/6766719/pexels-photo-6766719.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 91,
+    "reason": "V2.1: Peaceful meditation setup featuring crystals, incense, . Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-208",
+    "url": "https://images.pexels.com/photos/8180624/pexels-photo-8180624.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: Close-up view of a hand arranging stones and sand in a . Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-209",
+    "url": "https://images.pexels.com/photos/1272838/pexels-photo-1272838.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: A minimalist black origami crane elegantly suspended ag. Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-210",
+    "url": "https://images.pexels.com/photos/7408618/pexels-photo-7408618.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: Elegant minimalist shelf featuring woven baskets and de. Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-211",
+    "url": "https://images.pexels.com/photos/8141382/pexels-photo-8141382.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 91,
+    "reason": "V2.1: A serene view of a traditional Japanese corridor with w. Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-212",
+    "url": "https://images.pexels.com/photos/5995541/pexels-photo-5995541.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: A single burnt matchstick captured in minimalist style . Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-213",
+    "url": "https://images.pexels.com/photos/268020/pexels-photo-268020.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: Two stones perfectly balanced on sandy ground at sunset. Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-214",
+    "url": "https://images.pexels.com/photos/4466205/pexels-photo-4466205.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: A single yellow flower with green leaves placed on a li. Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-215",
+    "url": "https://images.pexels.com/photos/4203095/pexels-photo-4203095.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: A minimalist decor setup featuring a Buddha head sculpt. Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-216",
+    "url": "https://images.pexels.com/photos/8180655/pexels-photo-8180655.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: Close-up of a serene miniature zen garden with sand, a . Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
   }
 ]

@@ -166,5 +166,145 @@
     "score": 90,
     "reason": "V2.1: Gradient sunset, horizon low, warm peaceful tones.",
     "author": "Sean Oulashin"
+  },
+  {
+    "id": "pexels-zen-01",
+    "url": "https://images.pexels.com/photos/1287145/pexels-photo-1287145.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: Misty mountains, layers of silence, subject low-centered.",
+    "author": "Eberhard Grossgasteiger"
+  },
+  {
+    "id": "pexels-zen-02",
+    "url": "https://images.pexels.com/photos/1295138/pexels-photo-1295138.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.75",
+    "score": 91,
+    "reason": "V2.1: Minimal seascape, calm water, horizon in lower third.",
+    "author": "Quang Nguyen Vinh"
+  },
+  {
+    "id": "pexels-zen-03",
+    "url": "https://images.pexels.com/photos/1647972/pexels-photo-1647972.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: Single tree on hill, vast sky, ultimate simplicity.",
+    "author": "Emiliano Arano"
+  },
+  {
+    "id": "pexels-zen-04",
+    "url": "https://images.pexels.com/photos/1770809/pexels-photo-1770809.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.85",
+    "score": 92,
+    "reason": "V2.1: Desert dunes, soft curves, subject at bottom edge.",
+    "author": "Felix Mittermeier"
+  },
+  {
+    "id": "pexels-zen-05",
+    "url": "https://images.pexels.com/photos/1834403/pexels-photo-1834403.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.7",
+    "score": 90,
+    "reason": "V2.1: Morning mist, forest depth, centered composition.",
+    "author": "eberhard grossgasteiger"
+  },
+  {
+    "id": "pexels-zen-06",
+    "url": "https://images.pexels.com/photos/2049422/pexels-photo-2049422.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 91,
+    "reason": "V2.1: Ocean waves, minimalist, calming blue gradient.",
+    "author": "Emiliano Arano"
+  },
+  {
+    "id": "pexels-zen-07",
+    "url": "https://images.pexels.com/photos/2113566/pexels-photo-2113566.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.75",
+    "score": 93,
+    "reason": "V2.1: Foggy lake, perfect reflection, zen symmetry.",
+    "author": "Jahoo Clouseau"
+  },
+  {
+    "id": "pexels-zen-08",
+    "url": "https://images.pexels.com/photos/2387873/pexels-photo-2387873.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: White sand beach, turquoise water, vacation zen.",
+    "author": "Taryn Elliott"
+  },
+  {
+    "id": "pexels-zen-09",
+    "url": "https://images.pexels.com/photos/2559941/pexels-photo-2559941.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.85",
+    "score": 92,
+    "reason": "V2.1: Snowy mountains, soft focus, peaceful winter.",
+    "author": "eberhard grossgasteiger"
+  },
+  {
+    "id": "pexels-zen-10",
+    "url": "https://images.pexels.com/photos/2835436/pexels-photo-2835436.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.75",
+    "score": 91,
+    "reason": "V2.1: Green meadow, gentle slope, natural calm.",
+    "author": "Brett Sayles"
+  },
+  {
+    "id": "pexels-zen-11",
+    "url": "https://images.pexels.com/photos/3150553/pexels-photo-3150553.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: Minimal architecture, white walls, geometric shadows.",
+    "author": "Expect Best"
+  },
+  {
+    "id": "pexels-zen-12",
+    "url": "https://images.pexels.com/photos/3225529/pexels-photo-3225529.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.7",
+    "score": 93,
+    "reason": "V2.1: Cherry blossom branch, soft pink, Japanese aesthetic.",
+    "author": "Aleksandar Pasaric"
+  },
+  {
+    "id": "pexels-zen-13",
+    "url": "https://images.pexels.com/photos/355465/pexels-photo-355465.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.85",
+    "score": 90,
+    "reason": "V2.1: Tropical beach, palm shadow, vacation vibes.",
+    "author": "Dominika Roseclay"
+  },
+  {
+    "id": "pexels-zen-14",
+    "url": "https://images.pexels.com/photos/355508/pexels-photo-355508.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: Golden wheat, warm sunset, harvest peace.",
+    "author": "Lukas"
+  },
+  {
+    "id": "pexels-zen-15",
+    "url": "https://images.pexels.com/photos/358532/pexels-photo-358532.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.75",
+    "score": 91,
+    "reason": "V2.1: Calm sea, distant horizon, infinite blue.",
+    "author": "Sebastian Voortman"
+  },
+  {
+    "id": "pexels-zen-16",
+    "url": "https://images.pexels.com/photos/462030/pexels-photo-462030.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: Bamboo forest, green gradient, natural zen.",
+    "author": "Kiyoshi Takahara"
+  },
+  {
+    "id": "pexels-zen-17",
+    "url": "https://images.pexels.com/photos/675243/pexels-photo-675243.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.85",
+    "score": 93,
+    "reason": "V2.1: White clouds, blue sky, cloud watching.",
+    "author": "Máté Batha"
+  },
+  {
+    "id": "pexels-zen-18",
+    "url": "https://images.pexels.com/photos/733200/pexels-photo-733200.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.7",
+    "score": 92,
+    "reason": "V2.1: Lonely road, foggy morning, journey aesthetic.",
+    "author": "Skitterphoto"
+  },
+  {
+    "id": "pexels-zen-19",
+    "url": "https://images.pexels.com/photos/91216/pexels-photo-91216.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 91,
+    "reason": "V2.1: Lake reflection, mountain silhouette, dual world.",
+    "author": "Tobi"
+  },
+  {
+    "id": "pexels-zen-20",
+    "url": "https://images.pexels.com/photos/978695/pexels-photo-978695.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.75",
+    "score": 90,
+    "reason": "V2.1: Autumn forest, soft colors, seasonal change.",
+    "author": "Lum3n"
   }
 ]

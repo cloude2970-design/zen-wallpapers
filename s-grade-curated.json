@@ -1650,5 +1650,40 @@
     "score": 93,
     "reason": "V2.1: A single bamboo stalk against a muted background.. Subject centered low (fp-y=0.8), clean upper third for UI.",
     "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-237",
+    "url": "https://images.unsplash.com/photo-1719222700307-930c5ff6c741?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: A building sitting on top of a lake next to a forest. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-238",
+    "url": "https://images.pexels.com/photos/7303161/pexels-photo-7303161.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 91,
+    "reason": "V2.1: A minimalist scene with a white vase, flowering branch,. Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-239",
+    "url": "https://images.pexels.com/photos/12955767/pexels-photo-12955767.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: Close-up of stacked stones balancing on a serene pebble. Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-240",
+    "url": "https://images.pexels.com/photos/8966372/pexels-photo-8966372.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: Abstract black and white blurred hourglass shape with s. Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-241",
+    "url": "https://images.pexels.com/photos/8251552/pexels-photo-8251552.jpeg?auto=compress&cs=tinysrgb&w=1320&h=2868&fit=crop&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: A simple Japandi-style setup featuring a gray vase with. Subject centered low (fp-y=0.8), clean top area.",
+    "author": "Pexels Contributor"
   }
 ]

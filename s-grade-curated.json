@@ -2700,5 +2700,75 @@
     "score": 95,
     "reason": "V2.1: A close up of a plant with green leaves. Subject centered low (fp-y=0.8), clean upper third for UI.",
     "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-387",
+    "url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: Misty mountain landscape at sunrise. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-388",
+    "url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: Starry night sky over mountains. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-389",
+    "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: Misty forest morning light. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-390",
+    "url": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: Sunlight through forest trees. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-391",
+    "url": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: Waterfall in green forest. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-392",
+    "url": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: Solitude in nature mountain view. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-393",
+    "url": "https://images.unsplash.com/photo-1501854140801-50d01698950b?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: Aerial view of green forest. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-394",
+    "url": "https://images.unsplash.com/photo-1426604966848-d7adac402bff?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: Mountain valley with river. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-395",
+    "url": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: Flowing water long exposure. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-396",
+    "url": "https://images.unsplash.com/photo-1505144808419-1957a94ca61e?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: Ocean waves from above. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
   }
 ]

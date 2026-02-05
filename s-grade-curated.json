@@ -2840,5 +2840,47 @@
     "score": 93,
     "reason": "V2.1: Rain drops on glass. Subject centered low (fp-y=0.8), clean upper third for UI.",
     "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-407",
+    "url": "https://images.unsplash.com/photo-1517816743773-6e0fd518b4a6?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: Minimalist architecture. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-408",
+    "url": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: Alpine lake panorama. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-409",
+    "url": "https://images.unsplash.com/photo-1518173946687-a4c036bc3c95?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: Foggy mountain layers. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-410",
+    "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: Dramatic mountain peaks. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-411",
+    "url": "https://images.unsplash.com/photo-1504567961542-e24d9439a724?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: Zen garden sand pattern. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-412",
+    "url": "https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: Forest path in autumn. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
   }
 ]

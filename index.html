@@ -474,6 +474,16 @@
             await refreshSGrade(true);
         }
 
+        // Infinite Scroll Logic
+        window.onscroll = function() {
+            if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight - 1000) {
+                const loadMoreBtn = document.getElementById('loadMoreBtn');
+                if (loadMoreBtn.style.display !== 'none' && !loading.style.display.includes('block')) {
+                    loadMoreBtn.click();
+                }
+            }
+        };
+
         // Initial Load
         searchImages('iphone 15 pro max wallpaper');
     </script>

@@ -1685,5 +1685,75 @@
     "score": 94,
     "reason": "V2.1: A simple Japandi-style setup featuring a gray vase with. Subject centered low (fp-y=0.8), clean top area.",
     "author": "Pexels Contributor"
+  },
+  {
+    "id": "zen-ext-242",
+    "url": "https://plus.unsplash.com/premium_photo-1673481878624-15a93b26b095?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: a black and white photo of bars in a jail cell. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-243",
+    "url": "https://plus.unsplash.com/premium_photo-1673481883975-153e9f865873?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: a shadow of a clock on a wall. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-244",
+    "url": "https://images.unsplash.com/photo-1595336564142-8028eb9d7d37?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: white and black striped line. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-245",
+    "url": "https://images.unsplash.com/photo-1596185107993-a7f001cca09b?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: white concrete wall under blue sky during daytime. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-246",
+    "url": "https://plus.unsplash.com/premium_photo-1675662138465-73aba8faac1a?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: the shadow of a fence on a concrete wall. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-247",
+    "url": "https://images.unsplash.com/photo-1654787004033-dbf0ef364cfa?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: a brown abstract background with lines and curves. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-248",
+    "url": "https://images.unsplash.com/photo-1751957549718-fc1cb7c45c3c?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: Soft, white curtains in natural light.. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-249",
+    "url": "https://images.unsplash.com/photo-1764443994825-fdf138cb1653?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: Abstract pattern of vertical lines and shadows. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-250",
+    "url": "https://images.unsplash.com/photo-1620686494410-55f37b073b82?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: white concrete wall during daytime. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-251",
+    "url": "https://images.unsplash.com/photo-1660982238213-eeef93d9dc16?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: background pattern. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
   }
 ]

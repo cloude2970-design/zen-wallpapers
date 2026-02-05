@@ -2133,5 +2133,75 @@
     "score": 95,
     "reason": "V2.1: a large building on top of a hill next to a body of water. Subject centered low (fp-y=0.8), clean upper third for UI.",
     "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-306",
+    "url": "https://plus.unsplash.com/premium_photo-1675623968190-9035b830f1d9?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: a black and white cat laying on top of a bed. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-307",
+    "url": "https://plus.unsplash.com/premium_photo-1671627499089-be4089da7912?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: a tall building with balconies. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-308",
+    "url": "https://images.unsplash.com/photo-1614850462286-43eb9aba2e86?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: white concrete building under blue sky. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-309",
+    "url": "https://images.unsplash.com/photo-1693743459659-b3d545c3d1ef?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: a tall white building with a sky background. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-310",
+    "url": "https://images.unsplash.com/photo-1719597283241-c742a1247da2?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: An old building with a clock on the front. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-311",
+    "url": "https://images.unsplash.com/photo-1531917487925-4220ac740b85?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: orange concrete wall. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-312",
+    "url": "https://images.unsplash.com/photo-1562408981-fd93762f4944?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: gray high-rise building. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-313",
+    "url": "https://images.unsplash.com/photo-1695416846244-dce04a37402b?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: a close up of a black and white wall. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-314",
+    "url": "https://images.unsplash.com/photo-1759490903143-adb6e07c8406?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: Modern glass skyscraper against a white sky. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-315",
+    "url": "https://images.unsplash.com/photo-1693833520336-b983a14407e2?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: a man riding a snowboard. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
   }
 ]

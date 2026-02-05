@@ -1965,5 +1965,40 @@
     "score": 93,
     "reason": "V2.1: Soft pink abstract background with vertical lines. Subject centered low (fp-y=0.8), clean upper third for UI.",
     "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-282",
+    "url": "https://plus.unsplash.com/premium_photo-1764388522297-f91325dfc381?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: Bare trees in a dense, foggy forest.. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-283",
+    "url": "https://plus.unsplash.com/premium_photo-1767285897869-8ba77971d90f?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: Misty forest with tall dark trees in black and white.. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-284",
+    "url": "https://plus.unsplash.com/premium_photo-1666433719458-1b0e84a2876d?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: a mountain covered in clouds and trees under a blue sky. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-285",
+    "url": "https://plus.unsplash.com/premium_photo-1663945778981-2a85183ee1e8?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: a foggy forest filled with lots of trees. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-286",
+    "url": "https://plus.unsplash.com/premium_photo-1675315343128-5d9ba3667cd2?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: a forest filled with lots of trees covered in fog. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
   }
 ]

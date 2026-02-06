@@ -1,5 +1,40 @@
 [
   {
+    "id": "HDd-NQ_AMNQ",
+    "url": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?ixid=M3w4NjcxNjl8MHwxfHNlYXJjaHwxMXx8Y2FsbSUyMG5hdHVyZXxlbnwwfDF8fHwxNzcwMzQ3MDIwfDA&ixlib=rb-4.1.0&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8&q=80",
+    "score": 85,
+    "reason": "Automated Curation: High aesthetic score (85). Matches Zen criteria.",
+    "author": "Ivana Cajina"
+  },
+  {
+    "id": "gd3t5Dtbwkw",
+    "url": "https://images.unsplash.com/photo-1477840539360-4a1d23071046?ixid=M3w4NjcxNjl8MHwxfHNlYXJjaHwxMHx8Y2FsbSUyMG5hdHVyZXxlbnwwfDF8fHwxNzcwMzQ3MDIwfDA&ixlib=rb-4.1.0&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8&q=80",
+    "score": 100,
+    "reason": "Automated Curation: High aesthetic score (100). Matches Zen criteria.",
+    "author": "Manuel Will"
+  },
+  {
+    "id": "pfywsjCLzKQ",
+    "url": "https://images.unsplash.com/photo-1597327108036-262f75e2db6f?ixid=M3w4NjcxNjl8MHwxfHNlYXJjaHw5fHxjYWxtJTIwbmF0dXJlfGVufDB8MXx8fDE3NzAzNDcwMjB8MA&ixlib=rb-4.1.0&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8&q=80",
+    "score": 93,
+    "reason": "Automated Curation: High aesthetic score (93). Matches Zen criteria.",
+    "author": "Daniel J. Schwarz"
+  },
+  {
+    "id": "NBQhCKtg_9Y",
+    "url": "https://images.unsplash.com/photo-1503891617560-5b8c2e28cbf6?ixid=M3w4NjcxNjl8MHwxfHNlYXJjaHw3fHxjYWxtJTIwbmF0dXJlfGVufDB8MXx8fDE3NzAzNDcwMjB8MA&ixlib=rb-4.1.0&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8&q=80",
+    "score": 91,
+    "reason": "Automated Curation: High aesthetic score (91). Matches Zen criteria.",
+    "author": "Ian Keefe"
+  },
+  {
+    "id": "3k_snfX7s5Y",
+    "url": "https://images.unsplash.com/photo-1717733812723-543792d9e74e?ixid=M3w4NjcxNjl8MHwxfHNlYXJjaHwyfHxjYWxtJTIwbmF0dXJlfGVufDB8MXx8fDE3NzAzNDcwMjB8MA&ixlib=rb-4.1.0&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8&q=80",
+    "score": 95,
+    "reason": "Automated Curation: High aesthetic score (95). Matches Zen criteria.",
+    "author": "Milin John"
+  },
+  {
     "id": "m8IMnhY5-O4",
     "url": "https://images.unsplash.com/photo-1694274927805-131129704add?ixid=M3w4NjcxNjl8MHwxfHNlYXJjaHw2fHxjYWxtJTIwbmF0dXJlfGVufDB8MXx8fDE3NzAzNDcwMjB8MA&ixlib=rb-4.1.0&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8&q=80",
     "score": 87,

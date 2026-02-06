@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background -->
+  <rect width="512" height="512" fill="#1a1a2e"/>
+  
+  <!-- Zen Circle (Enso) - minimalist brush stroke -->
+  <circle cx="256" cy="256" r="140" 
+          fill="none" 
+          stroke="#e8e8e8" 
+          stroke-width="12"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          opacity="0.95"/>
+  
+  <!-- Subtle accent dot in center representing zen/mindfulness -->
+  <circle cx="256" cy="256" r="16" fill="#bd081c" opacity="0.9"/>
+  
+  <!-- Decorative subtle outer ring -->
+  <circle cx="256" cy="256" r="180" 
+          fill="none" 
+          stroke="#e8e8e8" 
+          stroke-width="2"
+          opacity="0.3"/>
+</svg>

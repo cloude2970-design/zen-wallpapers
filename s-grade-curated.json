@@ -2882,5 +2882,47 @@
     "score": 95,
     "reason": "V2.1: Forest path in autumn. Subject centered low (fp-y=0.8), clean upper third for UI.",
     "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-413",
+    "url": "https://images.unsplash.com/photo-1486870591958-9b9d0d1dda99?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 96,
+    "reason": "V2.1: Mountain cliff edge with fog. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-414",
+    "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: Misty pine forest morning. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-415",
+    "url": "https://images.unsplash.com/photo-1454496522488-7a8e488e8606?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: Snow capped peaks at golden hour. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-416",
+    "url": "https://images.unsplash.com/photo-1425913397330-cf8af2ff40a1?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: Sunlight rays through trees. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-417",
+    "url": "https://images.unsplash.com/photo-1500320821405-8fc1732209ca?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 95,
+    "reason": "V2.1: Cherry blossom petals. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
+  },
+  {
+    "id": "zen-ext-418",
+    "url": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 94,
+    "reason": "V2.1: Sunrise over mountain silhouette. Subject centered low (fp-y=0.8), clean upper third for UI.",
+    "author": "Unsplash Contributor"
   }
 ]

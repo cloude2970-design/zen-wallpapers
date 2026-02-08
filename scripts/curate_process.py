@@ -10,6 +10,7 @@ OUTPUT_FILE = "s-grade-curated.json"
 
 # Themes
 THEME_ZEN = [
+    "minimalist mist", "foggy forest", "solitary tree mist", "misty mountain zen", "minimal nature fog",
     "zen", "minimal", "calm nature", "fog", "still water", 
     "japanese garden", "monochrome landscape", "misty forest", 
     "meditation", "simple beauty"

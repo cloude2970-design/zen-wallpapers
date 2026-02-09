@@ -1,5 +1,40 @@
 [
   {
+    "id": "7tcWP16QZ74",
+    "url": "https://images.unsplash.com/photo-1620413763216-ffbb92215c3f?ixid=M3w4NjcxNjl8MHwxfHNlYXJjaHwxNXx8Zm9nZ3klMjBmb3Jlc3R8ZW58MHwxfHx8MTc3MDU4ODAwNnww&ixlib=rb-4.1.0&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8&q=80",
+    "score": 87,
+    "reason": "Automated Curation (Zen/Nature): High aesthetic score (87).",
+    "author": "Emil Karlsen"
+  },
+  {
+    "id": "khojR5mQsys",
+    "url": "https://images.unsplash.com/photo-1665162848578-6fefca8e76d1?ixid=M3w4NjcxNjl8MHwxfHNlYXJjaHwxNHx8Zm9nZ3klMjBmb3Jlc3R8ZW58MHwxfHx8MTc3MDU4ODAwNnww&ixlib=rb-4.1.0&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8&q=80",
+    "score": 90,
+    "reason": "Automated Curation (Zen/Nature): High aesthetic score (90).",
+    "author": "Zach Miller"
+  },
+  {
+    "id": "9x02Qc2lKk4",
+    "url": "https://images.unsplash.com/photo-1632848783945-248af29292a0?ixid=M3w4NjcxNjl8MHwxfHNlYXJjaHwxM3x8Zm9nZ3klMjBmb3Jlc3R8ZW58MHwxfHx8MTc3MDU4ODAwNnww&ixlib=rb-4.1.0&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8&q=80",
+    "score": 89,
+    "reason": "Automated Curation (Zen/Nature): High aesthetic score (89).",
+    "author": "Finn H."
+  },
+  {
+    "id": "N-xTu7dfSYk",
+    "url": "https://images.unsplash.com/photo-1707401772496-26f71686e44b?ixid=M3w4NjcxNjl8MHwxfHNlYXJjaHw4fHxmb2dneSUyMGZvcmVzdHxlbnwwfDF8fHwxNzcwNTg4MDA2fDA&ixlib=rb-4.1.0&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8&q=80",
+    "score": 85,
+    "reason": "Automated Curation (Zen/Nature): High aesthetic score (85).",
+    "author": "Julian Zwengel"
+  },
+  {
+    "id": "7_tRMnxWsUg",
+    "url": "https://images.unsplash.com/photo-1531951665218-b8b598959072?ixid=M3w4NjcxNjl8MHwxfHNlYXJjaHw0fHxmb2dneSUyMGZvcmVzdHxlbnwwfDF8fHwxNzcwNTg4MDA2fDA&ixlib=rb-4.1.0&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8&q=80",
+    "score": 96,
+    "reason": "Automated Curation (Zen/Nature): High aesthetic score (96).",
+    "author": "Justin Kauffman"
+  },
+  {
     "id": "GJSagFJJZVQ",
     "url": "https://images.unsplash.com/photo-1616686220511-c624a895c844?ixid=M3w4NjcxNjl8MHwxfHNlYXJjaHwxNXx8bW91bnRhaW4lMjBhZXJpYWx8ZW58MHwxfHx8MTc3MDU5NTIwNnww&ixlib=rb-4.1.0&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8&q=80",
     "score": 90,

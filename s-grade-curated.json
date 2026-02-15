@@ -1,5 +1,40 @@
 [
   {
+    "id": "gcPO1iBOF4A",
+    "url": "https://images.unsplash.com/photo-1761095596602-e7ac97799915?ixid=M3w4NjcxNjl8MHwxfHNlYXJjaHwyOXx8Y2hlZnMlMjB0YWJsZXxlbnwwfDF8fHwxNzcxMTY0MDIxfDA&ixlib=rb-4.1.0&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8&q=80",
+    "score": 85,
+    "reason": "Automated Curation (Food/Culinary): High aesthetic score (85).",
+    "author": "Madeline Liu"
+  },
+  {
+    "id": "tSIEicgKHcg",
+    "url": "https://images.unsplash.com/photo-1705917893262-51fec4cd3e29?ixid=M3w4NjcxNjl8MHwxfHNlYXJjaHwxOXx8Y2hlZnMlMjB0YWJsZXxlbnwwfDF8fHwxNzcxMTY0MDIxfDA&ixlib=rb-4.1.0&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8&q=80",
+    "score": 88,
+    "reason": "Automated Curation (Food/Culinary): High aesthetic score (88).",
+    "author": "Ambitious Studio* | Rick Barrett"
+  },
+  {
+    "id": "lsfaHOrqISs",
+    "url": "https://images.unsplash.com/photo-1682071308449-13e27c218ac1?ixid=M3w4NjcxNjl8MHwxfHNlYXJjaHwxOHx8Y2hlZnMlMjB0YWJsZXxlbnwwfDF8fHwxNzcxMTY0MDIxfDA&ixlib=rb-4.1.0&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8&q=80",
+    "score": 88,
+    "reason": "Automated Curation (Food/Culinary): High aesthetic score (88).",
+    "author": "Ambitious Studio* | Rick Barrett"
+  },
+  {
+    "id": "YnJ0NUA18po",
+    "url": "https://images.unsplash.com/photo-1673720111806-1d26f1e18f67?ixid=M3w4NjcxNjl8MHwxfHNlYXJjaHwxNXx8Y2hlZnMlMjB0YWJsZXxlbnwwfDF8fHwxNzcxMTY0MDIxfDA&ixlib=rb-4.1.0&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8&q=80",
+    "score": 89,
+    "reason": "Automated Curation (Food/Culinary): High aesthetic score (89).",
+    "author": "ornella falcone"
+  },
+  {
+    "id": "5RS-jxBSevs",
+    "url": "https://images.unsplash.com/photo-1657095151501-cd73b0f03b77?ixid=M3w4NjcxNjl8MHwxfHNlYXJjaHw1fHxjaGVmcyUyMHRhYmxlfGVufDB8MXx8fDE3NzExNjQwMjF8MA&ixlib=rb-4.1.0&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8&q=80",
+    "score": 88,
+    "reason": "Automated Curation (Food/Culinary): High aesthetic score (88).",
+    "author": "Yael Hofnung"
+  },
+  {
     "id": "h43VqtlnV7U",
     "url": "https://images.unsplash.com/photo-1503919275948-1f118d8ecf0b?ixid=M3w4NjcxNjl8MHwxfHNlYXJjaHwyNnx8bWVkaXRhdGlvbnxlbnwwfDF8fHwxNzcxMTI4MDIyfDA&ixlib=rb-4.1.0&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8&q=80",
     "score": 87,

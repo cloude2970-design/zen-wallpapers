@@ -1,5 +1,40 @@
 [
   {
+    "id": "hEvxdzvfOQw",
+    "url": "https://images.unsplash.com/photo-1673186975362-a72419720187?ixid=M3w4NjcxNjl8MHwxfHNlYXJjaHwxOHx8bWlzdHklMjBmb3Jlc3R8ZW58MHwxfHx8MTc3MTI5MDAzNXww&ixlib=rb-4.1.0&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8&q=80",
+    "score": 90,
+    "reason": "Automated Curation (Zen/Nature): High aesthetic score (90).",
+    "author": "Cro Witch"
+  },
+  {
+    "id": "vVrIykmFx7c",
+    "url": "https://images.unsplash.com/photo-1674221994260-437333a47704?ixid=M3w4NjcxNjl8MHwxfHNlYXJjaHwxNXx8bWlzdHklMjBmb3Jlc3R8ZW58MHwxfHx8MTc3MTI5MDAzNXww&ixlib=rb-4.1.0&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8&q=80",
+    "score": 90,
+    "reason": "Automated Curation (Zen/Nature): High aesthetic score (90).",
+    "author": "Richard"
+  },
+  {
+    "id": "jH50zWoMYWI",
+    "url": "https://images.unsplash.com/photo-1444857868065-ee7e2a744291?ixid=M3w4NjcxNjl8MHwxfHNlYXJjaHwxMHx8bWlzdHklMjBmb3Jlc3R8ZW58MHwxfHx8MTc3MTI5MDAzNXww&ixlib=rb-4.1.0&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8&q=80",
+    "score": 90,
+    "reason": "Automated Curation (Zen/Nature): High aesthetic score (90).",
+    "author": "Frances Gunn"
+  },
+  {
+    "id": "oFxxpPKwd84",
+    "url": "https://images.unsplash.com/photo-1502143655672-dbd02dd6abb6?ixid=M3w4NjcxNjl8MHwxfHNlYXJjaHw2fHxtaXN0eSUyMGZvcmVzdHxlbnwwfDF8fHwxNzcxMjkwMDM1fDA&ixlib=rb-4.1.0&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8&q=80",
+    "score": 85,
+    "reason": "Automated Curation (Zen/Nature): High aesthetic score (85).",
+    "author": "Jonas Tebbe"
+  },
+  {
+    "id": "bGkMaCQ0e9o",
+    "url": "https://images.unsplash.com/photo-1521567602683-a6760a3a2cc3?ixid=M3w4NjcxNjl8MHwxfHNlYXJjaHwzfHxtaXN0eSUyMGZvcmVzdHxlbnwwfDF8fHwxNzcxMjkwMDM1fDA&ixlib=rb-4.1.0&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8&q=80",
+    "score": 95,
+    "reason": "Automated Curation (Zen/Nature): High aesthetic score (95).",
+    "author": "Paul Pastourmatzis"
+  },
+  {
     "id": "MFeUOe1xajk",
     "url": "https://images.unsplash.com/photo-1587097742607-fbf646189415?ixid=M3w4NjcxNjl8MHwxfHNlYXJjaHwyOXx8Y2xpZmYlMjBlZGdlfGVufDB8MXx8fDE3NzEyODY0Mjh8MA&ixlib=rb-4.1.0&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8&q=80",
     "score": 95,

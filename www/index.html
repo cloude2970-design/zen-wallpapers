@@ -105,10 +105,15 @@
         .preview-overlay {
             position: fixed;
             top: 0; left: 0; right: 0; bottom: 0;
-            background: var(--bg);
+            background: #000;
             z-index: 200;
             display: none;
             flex-direction: column;
+            animation: fadeIn 0.2s ease;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
         }
         .preview-overlay.active { display: flex; }
         .preview-image {
@@ -116,19 +121,28 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            padding: 20px;
+            padding: 0;
+            overflow: hidden;
         }
         .preview-image img {
-            max-width: 100%;
-            max-height: 100%;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.3s;
+        }
+        .preview-image img.zoomed {
             object-fit: contain;
-            border-radius: 16px;
         }
         .preview-actions {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
             padding: 20px;
             padding-bottom: calc(20px + var(--safe-bottom));
             display: flex;
             gap: 12px;
+            background: linear-gradient(transparent, rgba(0,0,0,0.8));
         }
         .action-btn {
             flex: 1;
@@ -144,12 +158,31 @@
             background: var(--accent);
             color: white;
         }
+        .action-btn.primary:disabled {
+            background: #666;
+            cursor: not-allowed;
+        }
         .action-btn.secondary {
-            background: #1c1917;
+            background: rgba(255,255,255,0.15);
             color: var(--white);
-            border: 1px solid #292524;
+            backdrop-filter: blur(10px);
         }
         .close-btn {
+            position: absolute;
+            top: calc(16px + var(--safe-top));
+            left: 16px;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: rgba(0,0,0,0.5);
+            backdrop-filter: blur(10px);
+            border: none;
+            color: white;
+            font-size: 20px;
+            cursor: pointer;
+            z-index: 10;
+        }
+        .zoom-btn {
             position: absolute;
             top: calc(16px + var(--safe-top));
             right: 16px;
@@ -157,9 +190,10 @@
             height: 40px;
             border-radius: 50%;
             background: rgba(0,0,0,0.5);
+            backdrop-filter: blur(10px);
             border: none;
             color: white;
-            font-size: 20px;
+            font-size: 16px;
             cursor: pointer;
             z-index: 10;
         }
@@ -219,13 +253,14 @@
 
     <!-- Fullscreen Preview -->
     <div class="preview-overlay" id="preview">
-        <button class="close-btn" onclick="closePreview()">✕</button>
-        <div class="preview-image">
+        <button class="close-btn" onclick="closePreview()">←</button>
+        <button class="zoom-btn" onclick="toggleZoom()">⤢</button>
+        <div class="preview-image" onclick="toggleZoom()">
             <img id="previewImg" src="" alt="Preview">
         </div>
         <div class="preview-actions">
-            <button class="action-btn secondary" onclick="downloadWallpaper()">Save</button>
-            <button class="action-btn primary" onclick="setWallpaper()">Set Wallpaper</button>
+            <button class="action-btn secondary" onclick="downloadWallpaper()">💾 Save</button>
+            <button class="action-btn primary" id="setWallpaperBtn" onclick="setWallpaper()">🖼️ Set Wallpaper</button>
         </div>
     </div>
 
@@ -283,6 +318,11 @@
 
         function closePreview() {
             document.getElementById('preview').classList.remove('active');
+            document.getElementById('previewImg').classList.remove('zoomed');
+        }
+
+        function toggleZoom() {
+            document.getElementById('previewImg').classList.toggle('zoomed');
         }
 
         function showToast(message) {
@@ -322,21 +362,39 @@
             
             showToast('Setting wallpaper...');
             
-            // For Android, this would call native wallpaper API
-            if (window.Capacitor && window.Capacitor.Plugins.WallpaperPlugin) {
+            // Check if running in Capacitor (Android app)
+            if (window.Capacitor && window.Capacitor.isNativePlatform && window.Capacitor.isNativePlatform()) {
                 try {
-                    await window.Capacitor.Plugins.WallpaperPlugin.setWallpaper({
-                        url: currentWallpaper.url
-                    });
-                    showToast('Wallpaper set!');
-                    closePreview();
+                    const { WallpaperPlugin } = window.Capacitor.Plugins;
+                    if (WallpaperPlugin) {
+                        await WallpaperPlugin.setWallpaper({
+                            url: currentWallpaper.url
+                        });
+                        showToast('✓ Wallpaper set!');
+                        setTimeout(() => closePreview(), 500);
+                    } else {
+                        throw new Error('Plugin not available');
+                    }
                 } catch (err) {
-                    showToast('Failed to set wallpaper');
+                    console.error('Wallpaper error:', err);
+                    showToast('Failed: ' + (err.message || 'Unknown error'));
                 }
             } else {
-                // Fallback: open image in new tab for manual save
-                showToast('Long-press image to set as wallpaper');
-                window.open(currentWallpaper.url, '_blank');
+                // Web fallback: download the image
+                showToast('Downloading image...');
+                try {
+                    const response = await fetch(currentWallpaper.url);
+                    const blob = await response.blob();
+                    const url = URL.createObjectURL(blob);
+                    const a = document.createElement('a');
+                    a.href = url;
+                    a.download = `zen-wallpaper-${currentWallpaper.id || Date.now()}.jpg`;
+                    a.click();
+                    URL.revokeObjectURL(url);
+                    showToast('Downloaded! Set manually in gallery.');
+                } catch (err) {
+                    showToast('Download failed');
+                }
             }
         }
 

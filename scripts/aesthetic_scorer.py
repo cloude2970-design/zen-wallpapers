@@ -14,7 +14,7 @@ import random
 import datetime
 
 # Configuration
-UNSPLASH_ACCESS_KEY = "F78PJHZ-dLOT8DUqvzpN9_EKvlZS8JloqfzmDYQM1UU"
+UNSPLASH_ACCESS_KEY = "VOzNaANLZ0rSQBRIyTLrbd9FmPQIy011RZvsy3gHwpM"
 OUTPUT_FILE = "s-grade-curated.json"
 SGRADE_THRESHOLD = 90
 

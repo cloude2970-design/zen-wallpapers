@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=1024, height=500">
+    <title>Zen Wallpapers - Feature Graphic</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            width: 1024px;
+            height: 500px;
+            background: linear-gradient(135deg, #0c0a09 0%, #1c1917 50%, #0c0a09 100%);
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            position: relative;
+        }
+        
+        /* Decorative background elements */
+        .bg-glow {
+            position: absolute;
+            width: 400px;
+            height: 400px;
+            border-radius: 50%;
+            background: radial-gradient(circle, rgba(217, 119, 6, 0.15) 0%, transparent 70%);
+            filter: blur(60px);
+        }
+        .bg-glow-1 { top: -100px; left: -100px; }
+        .bg-glow-2 { bottom: -100px; right: -100px; }
+        
+        .container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 60px;
+            z-index: 1;
+        }
+        
+        /* App Icon */
+        .icon-container {
+            position: relative;
+        }
+        .app-icon {
+            width: 200px;
+            height: 200px;
+            border-radius: 40px;
+            background: linear-gradient(145deg, #292524, #1c1917);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 
+                0 20px 60px rgba(0, 0, 0, 0.5),
+                0 0 0 1px rgba(217, 119, 6, 0.2),
+                inset 0 1px 0 rgba(255, 255, 255, 0.05);
+        }
+        .icon-inner {
+            width: 160px;
+            height: 160px;
+            background: linear-gradient(145deg, #d97706, #b45309);
+            border-radius: 32px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 80px;
+        }
+        
+        /* Text Content */
+        .content {
+            text-align: left;
+        }
+        .title {
+            font-size: 56px;
+            font-weight: 200;
+            letter-spacing: 12px;
+            color: #fafaf9;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+        }
+        .subtitle {
+            font-size: 20px;
+            color: #a8a29e;
+            letter-spacing: 2px;
+            margin-bottom: 30px;
+        }
+        .features {
+            display: flex;
+            gap: 30px;
+        }
+        .feature {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            color: #d97706;
+            font-size: 14px;
+            font-weight: 500;
+            letter-spacing: 1px;
+        }
+        .feature-icon {
+            width: 32px;
+            height: 32px;
+            background: rgba(217, 119, 6, 0.15);
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        /* Decorative floating cards */
+        .floating-card {
+            position: absolute;
+            width: 80px;
+            height: 140px;
+            background: linear-gradient(145deg, #292524, #1c1917);
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+        }
+        .floating-card::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(135deg, rgba(217, 119, 6, 0.3), transparent);
+        }
+        .card-1 { top: 40px; right: 80px; transform: rotate(15deg); opacity: 0.6; }
+        .card-2 { bottom: 60px; right: 40px; transform: rotate(-10deg); opacity: 0.4; }
+        .card-3 { top: 80px; left: 60px; transform: rotate(-20deg); opacity: 0.3; }
+    </style>
+</head>
+<body>
+    <div class="bg-glow bg-glow-1"></div>
+    <div class="bg-glow bg-glow-2"></div>
+    
+    <div class="floating-card card-1"></div>
+    <div class="floating-card card-2"></div>
+    <div class="floating-card card-3"></div>
+    
+    <div class="container">
+        <div class="icon-container">
+            <div class="app-icon">
+                <div class="icon-inner">🏔️</div>
+            </div>
+        </div>
+        
+        <div class="content">
+            <h1 class="title">ZEN</h1>
+            <p class="subtitle">WALLPAPERS</p>
+            <div class="features">
+                <div class="feature">
+                    <div class="feature-icon">✨</div>
+                    <span>AI CURATED</span>
+                </div>
+                <div class="feature">
+                    <div class="feature-icon">📱</div>
+                    <span>4K QUALITY</span>
+                </div>
+                <div class="feature">
+                    <div class="feature-icon">🎨</div>
+                    <span>FREE</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

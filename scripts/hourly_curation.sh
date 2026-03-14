@@ -4,13 +4,13 @@ set -e
 # Navigate to repo root
 cd "$(dirname "$0")/.."
 
-echo "Starting Hourly Curation: $(date)"
+echo "Starting Hourly Curation V4: $(date)"
 
 # Pull latest
 git pull origin main || echo "Git pull failed, continuing anyway..."
 
-# Run curation script
-python3 scripts/curate_process.py
+# Run V4 curation script (high volume)
+python3 scripts/curate_v4.py
 
 # Check for changes
 if git diff --quiet s-grade-curated.json; then

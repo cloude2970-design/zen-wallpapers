@@ -11947,5 +11947,12 @@
     "score": 92,
     "reason": "V2.1: a black and white photo of a snow covered mountain. Keywords: minimal, white. Portrait, fp-x=0.5 fp-y=0.8, clean top.",
     "author": "Piermanuele Sberni"
+  },
+  {
+    "id": "photo-1674404155435-b03730e0b176",
+    "url": "https://images.unsplash.com/photo-1674404155435-b03730e0b176?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 90,
+    "reason": "V2.1: a bunch of rocks that are laying on the ground. Keywords: japanese, stone. Portrait, fp-x=0.5 fp-y=0.8, clean top.",
+    "author": "Lisa Forkner"
   }
 ]

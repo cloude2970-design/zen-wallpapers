@@ -11919,5 +11919,33 @@
     "score": 94,
     "reason": "V2.1: snow covered mountain during daytime. Keywords: minimalist, minimal. Portrait, fp-x=0.5 fp-y=0.8, clean top.",
     "author": "Nils Leonhardt"
+  },
+  {
+    "id": "photo-1769969459415-0d7338e60e4d",
+    "url": "https://images.unsplash.com/photo-1769969459415-0d7338e60e4d?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 100,
+    "reason": "V2.1: gentle waves on a misty ocean at dawn. Keywords: misty, mist, dawn. Portrait, fp-x=0.5 fp-y=0.8, clean top.",
+    "author": "Alexandr Popadin"
+  },
+  {
+    "id": "photo-1767170549468-2304b1b46e9b",
+    "url": "https://images.unsplash.com/photo-1767170549468-2304b1b46e9b?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 97,
+    "reason": "V2.1: a lone boat on a calm, misty lake. Keywords: calm, misty, mist. Portrait, fp-x=0.5 fp-y=0.8, clean top.",
+    "author": "Tolga Ahmetler"
+  },
+  {
+    "id": "photo-1770664944669-b3c2cb94b423",
+    "url": "https://images.unsplash.com/photo-1770664944669-b3c2cb94b423?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 91,
+    "reason": "V2.1: calm ocean reflecting the sky and clouds. Keywords: calm. Portrait, fp-x=0.5 fp-y=0.8, clean top.",
+    "author": "Alef Morais"
+  },
+  {
+    "id": "photo-1675860972787-6e8d68cb763d",
+    "url": "https://images.unsplash.com/photo-1675860972787-6e8d68cb763d?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 92,
+    "reason": "V2.1: a black and white photo of a snow covered mountain. Keywords: minimal, white. Portrait, fp-x=0.5 fp-y=0.8, clean top.",
+    "author": "Piermanuele Sberni"
   }
 ]

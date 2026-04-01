@@ -11954,5 +11954,19 @@
     "score": 90,
     "reason": "V2.1: a bunch of rocks that are laying on the ground. Keywords: japanese, stone. Portrait, fp-x=0.5 fp-y=0.8, clean top.",
     "author": "Lisa Forkner"
+  },
+  {
+    "id": "photo-1601779144625-d149a6214af7",
+    "url": "https://images.unsplash.com/photo-1601779144625-d149a6214af7?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 93,
+    "reason": "V2.1: black and white stone on gray sand. Keywords: sand, stone, white. Portrait, fp-x=0.5 fp-y=0.8, clean top.",
+    "author": "Karsten Winegeart"
+  },
+  {
+    "id": "photo-1627261817386-41fedd5e8122",
+    "url": "https://images.unsplash.com/photo-1627261817386-41fedd5e8122?q=80&w=1320&h=2868&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.8",
+    "score": 90,
+    "reason": "V2.1: gray rock formation during daytime. Keywords: calm, gray. Portrait, fp-x=0.5 fp-y=0.8, clean top.",
+    "author": "Carl Kho"
   }
 ]
